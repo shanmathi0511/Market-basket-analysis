@@ -26,4 +26,4 @@ This project implements a Market Basket Analysis and Product Recommendation Syst
    git clone <repository-url>
    cd <repository-directory>
 
-© 2024 Shanmathi M. All Rights Reserved.
+
